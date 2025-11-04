@@ -2,7 +2,7 @@ substitutions:
   _REGION: "northamerica-northeast2"
   _AR_REPO: "omar-bank-repo"
   _SERVICE: "omar-bank-frontend"
-  _API_BASE_URL: "https://omar-bank-backend-79505229087.northamerica-northeast2.run.app"
+  _API_BASE_URL: "https://omar-bank-backend-79505229087.northamerica-northeast2.run.app/api/v1"
   _TAG: "$SHORT_SHA"
 
 options:
